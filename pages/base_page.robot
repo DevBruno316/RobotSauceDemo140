@@ -19,7 +19,8 @@ Abrir Navegador
     Register Keyword To Run On Failure    Tirar screenshot    
     Open Browser    url=${url}    browser=${browser}
     Set Browser Implicit Wait    10000ms
-    Wait Until Element Is Visible    css=.login_logo    ${timeout}
+    Wait Until Element Is Visible    css=.login_logo    ${timeout} 
+    
 Fechar Navegador
     Sleep    500ms    # Pode ser nmecessário para dar tempo de realizar ultima ação
     Close Browser  
