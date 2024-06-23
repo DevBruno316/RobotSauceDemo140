@@ -50,5 +50,6 @@ Configuração inicial
 7 - Criar e executar um perfil de teste no Apppium inspector
 8 - inspecionar o app - descobrir seletores
 9 - Exportar o script ou seletores
-10 - programar 
+10 - Importar, ajustar e programar complementos
+ 
 
